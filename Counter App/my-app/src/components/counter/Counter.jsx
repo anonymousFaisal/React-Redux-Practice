@@ -9,7 +9,7 @@ const Counter = () => {
 
   return (
     <div className="card shadow-sm" style={{ maxWidth: "800px", margin: "auto" }}>
-      <div className="card-header bg-secondary text-center">
+      <div className="card-header bg-primary text-center">
         <h4 className="text-white mb-0">My Counter App</h4>
       </div>
       <div className="card-body text-center">
